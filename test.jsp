@@ -2,7 +2,9 @@
 <html>
     <head>
         <!--
+        <script type="text/javascript">
             document.write('test!');
+        </script>
         //-->
     </head>
 
